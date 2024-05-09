@@ -98,7 +98,7 @@ public class Spray_CheckHandEngage : MonoBehaviour
 
     private bool CheckDisengageCondition()
     {
-        if ((RightHandEngaged_InitPos - RightHandTracked_Root.transform.position).magnitude > 0.30f || Quaternion.Angle(RightHandEngaged_InitRot, RightHandTracked_Root.transform.rotation) > 150f)
+        if ((RightHandEngaged_InitPos - RightHandTracked_Root.transform.position).magnitude > 1.00f || Quaternion.Angle(RightHandEngaged_InitRot, RightHandTracked_Root.transform.rotation) > 150f)
             return true;
         else
             return false;
