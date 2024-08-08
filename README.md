@@ -5,7 +5,7 @@
 
 -----------------
 
-As the prevalence of bare-hand interaction rises in AR/VR environments, a crucial challenge emerges: How can we incorporate haptic feedback without encumbering the hands? **QuadStretcher** is a skin stretch display that delivers "substituted" haptic sensations on the forearm, facilitating immersive bare-hand AR/VR experiences. This work has been presented at [CHI 2024](https://chi2024.acm.org/), and more details about our work can be explored in: [Paper] (TBU) | [DOI] (TBU) | [Video] (TBU)
+As bare-hand interaction has been rising in AR/VR environments, a crucial challenge emerges: How can we incorporate haptic feedback without encumbering the hands? **QuadStretcher** is a skin stretch display that delivers "substituted" haptic sensations on the forearm, facilitating immersive bare-hand AR/VR experiences. This work has been presented at [CHI 2024](https://chi2024.acm.org/), and more details about our work can be explored in: [Paper] (TBU) | [DOI] (TBU) | [Video] (TBU)
 
 <p align="center">
     <img src="img/QuadStretcher_teaser.gif", width="480">
