@@ -15,7 +15,7 @@ Archival of the 3D modeling process on Autodesk Fusion.
   <p align="center"><img src="../../img/spurGearInstruction2.png", width="300"></p>
   
 * Set options and click OK.
-  <p align="center"><img src="../../img/spurGearInstruction3.png", width="220"><br><sup>Pressure Angle: 20 deg, Module: 0.80, Number of Teeth: 27, Backlash: 0.00 mm, Root Fillet Radius: 0.10 mm, Gear Thickness: 3.00 mm, Hole Diameter: 5.60 mm (Pitch Diameter: 21.60 mm)</sup></p>
+  <p align="center"><img src="../../img/spurGearInstruction3.png", width="220"><br><sup>Pressure Angle: 20 deg, Module: 0.80, Number of Teeth: 27, Backlash: 0.00 mm, Root Fillet Radius: 0.10 mm, Gear Thickness: 3.00 mm, Hole Diameter: 5.80 mm (Pitch Diameter: 21.60 mm)</sup></p>
 * Extruding
   <p align="center"><img src="../../img/spurGearInstruction4.png", width="600"></p>
   
