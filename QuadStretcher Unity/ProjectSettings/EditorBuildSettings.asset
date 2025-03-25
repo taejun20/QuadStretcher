@@ -5,27 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/PushButtonScene.unity
-    guid: d7060a45b707d5643be20e58c9c52bbc
-  - enabled: 1
-    path: Assets/Scenes/FishingScene.unity
-    guid: 41f879b3d32be5842827694f22241eb1
-  - enabled: 1
-    path: Assets/Scenes/RotateKnobScene.unity
-    guid: 4d8e15e6442bfee44bde4b910f914a90
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SlingshotScene.unity
     guid: 5d7188773cda5884f8d028ca801cc169
   - enabled: 1
     path: Assets/Scenes/SprayScene.unity
     guid: a178cdcbeac6e2d44adeb01a5725fe54
-  - enabled: 1
-    path: Assets/Scenes/TennisScene.unity
-    guid: 75cd3c8c9d50d7e49a13fffd24adff6e
-  - enabled: 1
-    path: Assets/Scenes/DemoManagerScene.unity
-    guid: d697bbe9e443ecc47a5fc8aa258cfe3d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: af3bceb73a464a74d8e2f8d2b4fc0e81, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e93799f1db627b34bbb9297bbefb2b4f, type: 2}
